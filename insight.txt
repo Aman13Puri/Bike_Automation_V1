@@ -1,0 +1,17 @@
+PROJECT INSIGHT
+We have designed a set of modules to enhance the functionality of pre-existing features so as to improve the safety of the controller. We have introduced the following applications to our project.
+
+AUTOMATIC INDICATORS
+We introduced a gyroscope sensor that provides us the acceleration in various directions. Accordingly, we computed the direction the vehicle was turning into thus automatically turning on the indicators of that side.
+
+AUTOMATIC HORN
+We have used an ultrasonic sensor to measure the distance between an upcoming object and the front end of the bike. A buzzer is programmed to automatically generate a sound beep as soon as an object comes in close proximity.
+
+AUTOMATIC HEADLIGHTS
+We have used an LDR sensor to turn the headlight automatically on the moment it gets dark. All connections have been programmed parallel so that the original function stays true.
+
+AUTOMATIC STAND INDICATOR
+The most common issue faced by various two wheeler vehicle owners is that they forget to check the orientation of the bike stand. To tackle this everyday problem, we have introduced an automatic bike stand indicator lights. When the stand has been lifted off, the controller will see a green light which represents that it’s safe to move. Otherwise the red light will glow to indicate that it’s advisable to stop and shift the stand first.
+
+AUTOMATIC KILL SWITCH ACTIVATOR
+We devised a very important safety feature wherein, the Kill Switch of the bike is automatically switched on the very moment the bike tilts over a particular level using a relay switch and a gyroscope sensor to compute the same.
